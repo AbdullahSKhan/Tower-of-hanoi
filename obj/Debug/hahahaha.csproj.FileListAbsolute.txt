@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\lolx 2\hahahaha\hahahaha\bin\Debug\hahahaha.exe.config
+C:\Users\Lenovo\Desktop\lolx 2\hahahaha\hahahaha\bin\Debug\hahahaha.exe
+C:\Users\Lenovo\Desktop\lolx 2\hahahaha\hahahaha\bin\Debug\hahahaha.pdb
+C:\Users\Lenovo\Desktop\lolx 2\hahahaha\hahahaha\obj\Debug\hahahaha.exe
+C:\Users\Lenovo\Desktop\lolx 2\hahahaha\hahahaha\obj\Debug\hahahaha.pdb
+C:\Users\Lenovo\Desktop\lolx 2\hahahaha\hahahaha\obj\Debug\hahahaha.csprojResolveAssemblyReference.cache
